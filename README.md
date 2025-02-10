@@ -1,3 +1,7 @@
 # UniMoD: Efficient Unified Multimodal Transformers with Mixture-of-Depths
 
-The code repository of UniMoD.  The code will be released soon.
+
+![Pipeline](pipeline.png) 
+
+
+The code repository of UniMoD and the code will be released soon.
